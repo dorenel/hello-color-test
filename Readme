@@ -1,0 +1,10 @@
+to see the page:
+    point browser to index.html
+
+to test:
+    npm test
+
+to see github actions:
+    edit .github/workflows/main.yml
+    push the change to github
+    see the automated steps under the "actions" tab
