@@ -1,4 +1,4 @@
-name: Upload Website
+name: Hello Color Test
 on:
   push:
 jobs:
