@@ -30,4 +30,4 @@ jobs:
           AWS_S3_BUCKET: "dl-hello-color-test"
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          AWS_REGION: "us-west-1" # optional: defaults to us-west-1  
+          AWS_REGION: "us-west-1" # optional: defaults to us-west-1   
